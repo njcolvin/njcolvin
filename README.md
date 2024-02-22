@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @njcolvin
-- 👀 I’m interested in artificial intelligence, distributed systems, embedded systems, and web development.
-- 🌱 I’m currently learning about intelligent systems in an MS program at the University of Texas at Dallas. Go Comets!
-- 💞️ I’m looking to collaborate on AI or image analysis projects built on the web or in distributed or embedded systems.
-- 📫 How to reach me: nicholas (dot) colvin (at) utdallas.edu or njc (at) alumni.unc.edu
+- 👀 I’m interested in artificial intelligence, distributed systems, and backend web development.
+- 🌱 I hold an MS in computer science from UT Dallas and a BS in computer science from UNC. Go Comets ☄️ and Tar Heels 🐏!
+- ⚖️ I’m working with [armanaydemir](https://github.com/armanaydemir) on OpenProBono, a legal AI platform for public use. Learn more from the [repository](https://github.com/armanaydemir/openprobono) and [website](https://www.openprobono.com/).
+- 📫 How to reach me: njc (at) alumni.unc.edu or nickjcolvin (at) gmail
 
 <!---
 njcolvin/njcolvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
