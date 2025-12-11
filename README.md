@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @njcolvin
 - 👀 I’m interested in artificial intelligence, distributed systems, and backend web development.
-- 🌱 I completed an MS in computer science from UT Dallas ☄️ and a BS in computer science from UNC 🐏.
-- ⚖️ I’m working with [armanaydemir](https://github.com/armanaydemir) on OpenProBono, a legal AI platform for public use. Learn more from the [repository](https://github.com/armanaydemir/openprobono) and [website](https://www.openprobono.com/).
+- 🌱 I completed a BS in computer science from UNC Chapel Hill 🐏 and an MS from UT Dallas ☄️.
+- ⚖️ I worked with [armanaydemir](https://github.com/armanaydemir) on [OpenProBono](https://github.com/OpenProBono/openprobono), a legal AI platform for public use.
+- 🧾 I currently work on the AvaTax platform at [Avalara](https://www.avalara.com). Check out the [AvaTax MCP Server](https://developer.avalara.com/mcp-servers/avatax/)!
 - 📫 How to reach me: njc (at) alumni.unc.edu or nickjcolvin (at) gmail
 
 <!---
